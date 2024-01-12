@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KubacoSK
 - 👀 I’m interested in Gaming, Reading, Programming, Working out
-- 🌱 I’m currently learning C#, arduino, shell
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on gym
 - 📫 How to reach me - no one can
 
