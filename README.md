@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KubacoSK
-- 👀 I’m interested in Gaming, Reading, Programming, Working out
+- 👋 Greetings, I’m Jacob
+- 👀 I like Gaming, Reading, Programming and Working out
 - 🌱 I’m currently learning C#
-- 📫 How to reach me - no one can
+- 📫 How to reach me - that’s not possible
 
 Kubaco AKA Mr Crack Sparrow
 <!---
